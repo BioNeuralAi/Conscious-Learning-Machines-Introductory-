@@ -7,6 +7,9 @@ Introduction
 Deep Learning has revolutionized the field of machine learning, enabling unprecedented advancements in areas such as image recognition, natural language processing, and speech recognition. However, current Deep Learning models, which typically use a single type of neuron(perceptron) and heavily centralized processing, may not fully capture the complexity and diversity of the human brain. In contrast, the proposed Conscious Learning(CL) Machines utilize a b-neuron cluster design, where each digital
 neuron in the cluster mimics a different type of biological neuron.
 
+
+
+
 The Future Possibilities of Conscious Learning Systems
 
 While still in its early stages of development, the potential of Conscious Learning (CL) technology to reshape our understanding of AI and its capabilities is immense. Moving beyond the data-driven pattern recognition of traditional deep learning, CL systems hold the promise of unlocking a new frontier in artificial intelligence, characterized by:
